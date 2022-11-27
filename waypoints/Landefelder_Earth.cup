@@ -1,0 +1,10 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+"1-HeidelbergNord1","",ZA,3404.558S,02058.127E,110.0m,3,,650m,,"RoundField-Looked at in Google Earth - 11.4.2022"
+"2-Clanwilliam","CLAN",ZA,3210.617S,01852.913E,120.0m,2,160,580m,,"dirt Airfield - only seems suitable for 15m - measured 16m in google maps"
+"Citrusdal","FACI",ZA,3237.219S,01900.237E,164.0m,2,17,940m,,"Citrusdal Airfield - doesnt look used anymore, but suitable for landing and >20m glider - only looked at in google maps"
+"Lebanon","LBN",ZA,3216.033S,01855.733E,96.0m,2,280,400.0m,"126.500","280 / 100 20m x 400m - watch trees - looks good in maps - wide but short located at lakeside"
+"Nooitgedacht","NOOIT",ZA,3216.906S,01853.524E,322.0m,2,140,960m,,"Airport - Seems suitable for 20m glider - only looked at in Google Maps"
+"NoordhoekPrivateAirfield","NOORD",ZA,3242.689S,01903.647E,231.0m,2,150,1000m,,"Private Airfield - Seems suitable for 20m glider - measured width min. 24m - only looked at in Google Maps"
+"Somerset college","SOMCO",ZA,3402.568S,01848.707E,98.0m,3,,537m,,"outlanding field - only looked at in Google Maps 2022 - some other possible fields near"
+"Somerset industrial","SOMER",ZA,3404.653S,01848.768E,18.0m,3,,,,"outlanding field - only looked at in Google Earth 2022 - maybe wet, maybe animals"
+"Somerset NW round","SOMROU",ZA,3402.332S,01848.012E,84.0m,3,,250m,,"round outlanding field - only looked at in Google Earth 2022 - round sprinkler"
